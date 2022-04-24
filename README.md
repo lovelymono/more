@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div align="center">
  <img alt="&quot;More&quot; in a monospaced font, and arrow with two arrowheads to the right." src="logo.svg">
 </div>
 
